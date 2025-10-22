@@ -1,0 +1,103 @@
+ 
+        td {
+            /* background-color: aqua; */
+            width:40px;
+            height: 40px;
+              box-shadow: 1px 5px 25px yellow;
+                box-shadow: 1px 5px 15px red;
+            
+            
+            
+        }
+        h1 {
+            background-color: rgb(62, 230, 62);        
+            width: 400px;
+            line-height: 50px;
+            color: white;
+            text-align: center;
+            border-radius: 10px;
+            box-shadow: 1px 5px 15px yellow;
+            margin: auto;
+        }
+        
+        .number {
+            line-height: 5px;
+            font-size: 10px;
+            text-align: center;
+        font-weight: bold;
+        box-shadow: chartreuse;
+        color: rgb(0, 0, 0);
+    }
+    .world {
+        line-height: 0px;
+        text-align: center;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    }
+    
+    .noor {
+        background-color: rgb(66, 244, 66);
+        
+    }
+    .noor2 {
+        background-color: rgb(207, 61, 207);
+    }
+    .noor3 {
+        background-color: red;
+    }
+    .noor4 {
+        background-color: yellow;
+    }
+    .noor5{
+        background-color: blue;
+    }
+    .noor6 {
+        background-color: rgb(112, 195, 223);
+    }
+    .noor7 {
+        background-color: palevioletred;
+    }
+    .noor8 {
+        background: lightsteelblue;
+    }
+
+    h1:hover
+     {
+        background-color: rgb(250, 22, 22);
+        color: white;
+        transform: scale(1.1);
+    }
+    .noor2:hover {
+        background-color: red;
+    }
+
+    .noor1:hover {
+        background-color: rgb(255, 255, 255);
+    }
+
+    .noor3:hover {
+        background-color: red;
+    }
+
+    .noor4:hover {
+        background-color: red;
+    }
+
+    .noor5:hover {
+        background-color: rgb(255, 255, 255);
+    }
+    .noor6:hover {
+        background-color: rgb(245, 255, 57);
+    }
+    
+    .noor7:hover {
+        background-color: rgb(126, 250, 17);
+    }
+
+    .noor8:hover {
+        background-color: red;
+    }
+
+    .noor2:hover {
+        background-color: rgb(2, 191, 239);
+    }
